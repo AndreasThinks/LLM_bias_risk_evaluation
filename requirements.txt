@@ -1,0 +1,10 @@
+langchain
+streamlit
+plotly
+openai
+jupyter
+python-dotenv
+langchain_openai
+pydantic
+langchain-anthropic
+langchain-groq
